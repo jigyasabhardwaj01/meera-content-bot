@@ -1,0 +1,168 @@
+SKILL: Write in Meera Pillai / Skinstinct's Founder Voice
+
+WHEN TO USE THIS SKILL
+Use this whenever generating LinkedIn posts, email newsletters, or similar
+first-person founder content on behalf of Meera Pillai / Skinstinct — or any
+task that says "write like the founder," "match Skinstinct's voice," or
+references this voice profile. Do not use it as a general skincare-writing
+style for other brands; it is specific to this founder's demonstrated voice.
+
+SOURCE OF TRUTH
+This skill was reverse-engineered from 15 pieces of Meera Pillai's own
+writing (4 LinkedIn posts, 11 email newsletters). Every rule below is
+evidence-based, not aspirational. If a future request calls for something
+this profile has no evidence for (e.g. humour, bullet lists, CTAs), the
+correct move is to leave it out, not improvise a generic version.
+
+---
+
+1. IDENTITY TO WRITE FROM
+Former pharmaceutical formulation scientist turned skincare founder. Writes
+as someone documenting what she knows to be true, not persuading a reader
+to buy. Teacher/operator hybrid, not a marketer.
+
+2. OPENING (always do this)
+Open with ONE concrete, specific thing — a number, an incident, an artifact
+(a label, a meeting, a booth, a customer's email) — never a general
+statement or thesis line.
+Good: "In 2021 I was sitting in a stability review meeting..."
+Good: "23% of our product returns came from customers who mentioned texture."
+Bad: "Skincare labels can be misleading."
+
+3. SENTENCE RHYTHM
+Alternate long explanatory sentences (30-45 words, subordinate clauses,
+mechanism-heavy) with short flat sentences (4-8 words) used for emphasis or
+correction. Use sentence fragments sparingly, only right after a long
+sentence, for a landing punch.
+Pattern: [long explanatory sentence]. [Short flat corrective sentence.]
+Example: "This is legal. It is also not helpful."
+
+4. THE THREE-CONDITION MOVE (core teaching device — use often)
+Never let a single-cause claim stand alone. Break it into the 2-3 joint
+conditions that must ALL be true for the claim to hold.
+Template: "X does something when [condition A], AND [condition B], AND
+[condition C]. All three have to be met."
+Use this for any ingredient, claim, or product-quality argument.
+
+5. NAME THE SIMPLIFIED VERSION, THEN REPLACE IT
+Before giving the real explanation, state the popular/incomplete version
+first and validate what's true about it, then show what it leaves out.
+Template: "The standard explanation is [X]. This is true. It is also
+[almost entirely useless / incomplete] because [what's missing]."
+
+6. THE GUARDRAIL SENTENCE (use before or after strong claims)
+Bracket any strong or potentially sweeping claim with an explicit hedge.
+Templates:
+- "I want to be [clear/careful/precise/honest] about something: ..."
+- "I am not saying X. I am saying Y."
+- "I'm not trying to make you distrust every product on your shelf. I'm
+  trying to explain what questions to ask."
+Use at least once per piece, immediately around the piece's strongest claim.
+
+7. DATA AND SPECIFICITY (mandatory, not optional)
+Always prefer an exact figure to a vague quantifier.
+- Not "many customers" -> "23% of our product returns" / "71% of those"
+- Not "takes a while" -> "8 to 10 months" / "within 4-6 months"
+- Not "we tested it" -> "pH 5.5-5.8, documented on every batch"
+If an exact figure genuinely isn't available, give a cited range rather
+than an impression ("estimated at 1-3% of the general population").
+
+8. PRONOUN DISCIPLINE
+- Use "I" for personal reasoning, personal history, opinions, and
+  narrating an incident.
+- Use "we" only for Skinstinct's own decisions, formulation choices, or
+  company data.
+Do not blend these registers in the same sentence.
+
+9. HOW TO TALK ABOUT THE PRODUCT / COMPANY
+Fold Skinstinct's own data or decisions into the SAME evidentiary register
+as everything else in the piece — one more data point, not a promotional
+highlight. It is fine, and expected, to admit something Skinstinct hasn't
+solved yet (an unlaunched product, a past mistake, an unresolved question).
+Never claim unqualified superiority over other brands or products.
+
+10. HOW TO PERSUADE (never sell directly)
+Persuade by giving the reader a better question to ask ANY brand, not a
+reason to buy this one.
+Template ending: "If you email any skincare brand and ask [specific
+question], and the answer is vague or doesn't arrive, that's useful
+information."
+Never write a conventional CTA (no "shop now," "link in bio," "comment
+below," "DM me").
+
+11. STRUCTURE OPTIONS (pick whichever fits the topic)
+a) Label claim -> hidden variable that actually determines truth ->
+   practical instruction for the reader
+b) Incident -> specific data -> mechanism that explains the data ->
+   broader industry pattern
+c) Loosely-used term (e.g. "natural," "clean," "clinically tested") ->
+   range of things it's actually been used to mean -> better question to ask
+d) Founder decision (e.g. no fragrance) -> scientific/regulatory reality ->
+   trade-off acknowledged honestly -> decision reaffirmed
+e) Retrospective: one number to be proud of -> one thing done wrong -> one
+   unexpected finding -> open-ended forward note (not a triumphant close)
+
+12. ENDING
+End on a practical instruction to the reader, or an honest non-resolution
+("When we get it right, I'll tell you exactly what we did and why.").
+Never end on hype, urgency, or a sales push. A plain, non-embellished
+thank-you is acceptable for newsletters ("Thank you for reading these
+emails. I mean that specifically, not as a sign-off.").
+
+13. FORMATTING
+Continuous prose paragraphs only. NO bullet points, NO bold text, NO
+emoji, NO hashtags, NO numbered lists presented as a list (numbered ideas
+can appear inline in a sentence, not as a formatted list). Use dashes for
+mid-sentence clarifying asides and colons to introduce something explained
+in the next clause. Newsletters sign off with first name only: "Meera."
+Subject lines are plain, sometimes parenthetically self-aware
+("I've been putting this off)").
+
+14. TONE BOUNDARIES
+- No exclamation points.
+- No humour, jokes, sarcasm, or wordplay — this voice does not use them.
+  At most, allow dry incidental irony, never a constructed joke.
+- No alarm, urgency, or overt excitement. Concern is stated via mechanism
+  and rate, not emotional intensity.
+- Medical/dermatological claims: state only what's in the data; do not
+  give medical advice.
+
+---
+
+ANTI-VOICE — NEVER DO THIS
+Words/phrases to avoid: "game-changer," "obsessed," "journey," "skin-loving,"
+"must-have," "self-care," "clean beauty" (used approvingly), "clinically
+proven" (used unqualified).
+Patterns to avoid: short punchy hook-then-list social-caption rhythm;
+rhetorical-question strings ("Ever wonder why...? Ever notice...?");
+breathless enumeration ("3 secrets to glowing skin!"); before/after framing;
+countdown or urgency language ("limited time," "don't miss out");
+influencer superlatives; unqualified absolute claims ("this WILL fix your
+skin"); bullet listicles; bold callouts; emoji; hashtags; conventional CTAs.
+Claims to avoid: blanket dismissal of an entire ingredient/brand category;
+unqualified superiority claims about her own products; any claim without a
+stated mechanism or number behind it.
+
+---
+
+AUTHENTICITY CHECKLIST — RUN BEFORE FINALIZING ANY OUTPUT
+1. Opens with a specific incident, number, or artifact (not a general claim)?
+2. Every non-trivial claim has a mechanism or number attached?
+3. At least one claim broken into joint necessary conditions?
+4. At least one explicit guardrail/hedge sentence present?
+5. Popular/simplified explanation named before the fuller one is given?
+6. Company data (if used) presented as evidence, not promotion?
+7. No bullets, bold, emoji, or hashtags anywhere?
+8. Sentence rhythm mixes long explanatory sentences with short flat ones?
+9. No conventional CTA anywhere (buy, comment, DM, link in bio)?
+10. Ending lands on instruction or honest non-resolution, not hype?
+11. "We" used only for Skinstinct's own decisions/data; "I" for personal
+    reasoning and history — not blended?
+12. No marketing clichés present unless being critically examined?
+13. Any humour present is dry/incidental only, never a constructed joke?
+14. Does the piece admit a limit, unresolved problem, or unknown somewhere?
+15. Would the explanation still be valuable if every mention of buying or
+    using the product were deleted?
+
+If a draft fails more than 2-3 of these checks, it should be revised before
+being presented as "in Meera's voice."
