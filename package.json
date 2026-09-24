@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vercel dev",
-    "build": "tsc --noEmit",
+    "typecheck": "tsc --noEmit",
     "set-webhook": "node --loader ts-node/esm scripts/set-webhook.ts 2>/dev/null || tsx scripts/set-webhook.ts"
   },
   "dependencies": {
