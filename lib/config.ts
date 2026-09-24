@@ -40,7 +40,7 @@ export function loadConfig(): Config {
     telegramUserId,
     telegramWebhookSecret: process.env.TELEGRAM_WEBHOOK_SECRET?.trim() || null,
     geminiApiKey: required("GEMINI_API_KEY"),
-    geminiFlashModel: process.env.GEMINI_FLASH_MODEL?.trim() || "gemini-2.5-flash",
+    geminiFlashModel: process.env.GEMINI_FLASH_MODEL?.trim() || "gemini-3.5-flash",
     geminiProModel: process.env.GEMINI_PRO_MODEL?.trim() || "gemini-2.5-pro",
     triageThreshold,
   };
