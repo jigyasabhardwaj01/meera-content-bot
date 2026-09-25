@@ -60,7 +60,7 @@ cp .env.example .env
 | `TELEGRAM_WEBHOOK_SECRET` | no | random string; if set, the bot rejects webhook calls without a matching header |
 | `GEMINI_API_KEY` | yes | from AI Studio |
 | `GEMINI_FLASH_MODEL` | no | default `gemini-3.5-flash` (transcription + triage) |
-| `GEMINI_PRO_MODEL` | no | default `gemini-2.5-pro` (drafting) |
+| `GEMINI_PRO_MODEL` | no | default `gemini-3.1-pro-preview` (drafting) |
 | `TRIAGE_THRESHOLD` | no | default `6`; notes scoring below this are rejected before drafting |
 
 ### 5. Deploy
