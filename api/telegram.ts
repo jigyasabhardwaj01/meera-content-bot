@@ -123,6 +123,8 @@ async function processNote(config: Config, telegram: TelegramClient, message: Te
     return;
   }
 
+  await telegram.sendMessage(chatId, `Scored ${triage.score}/10 — worth developing. Drafting now.`);
+
   // 3. Optional current-context hook. Never blocks or fails the note if it errors.
   const news = await fetchNewsHook(triage.searchQuery || triage.topic || noteText.slice(0, 80));
 
