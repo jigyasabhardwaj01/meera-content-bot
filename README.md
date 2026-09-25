@@ -62,6 +62,7 @@ cp .env.example .env
 | `GEMINI_FLASH_MODEL` | no | default `gemini-3.5-flash` (transcription + triage) |
 | `GEMINI_PRO_MODEL` | no | default `gemini-3.1-pro-preview` (drafting) |
 | `TRIAGE_THRESHOLD` | no | default `6`; notes scoring below this are rejected before drafting |
+| `NEWS_HL` / `NEWS_GL` / `NEWS_CEID` | no | Google News edition to search for a context hook; defaults to India (`en-IN` / `IN` / `IN:en`) |
 
 ### 5. Deploy
 

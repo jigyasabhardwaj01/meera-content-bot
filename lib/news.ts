@@ -12,8 +12,17 @@ export interface NewsItem {
   url: string;
 }
 
+// Locale for the Google News edition to search. Defaults to India
+// (https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en); override via env
+// vars if Meera's audience is elsewhere.
+const NEWS_HL = process.env.NEWS_HL?.trim() || "en-IN";
+const NEWS_GL = process.env.NEWS_GL?.trim() || "IN";
+const NEWS_CEID = process.env.NEWS_CEID?.trim() || "IN:en";
+
 export async function fetchNewsHook(query: string, maxItems = 3): Promise<NewsItem[]> {
-  const feedUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
+  const feedUrl =
+    `https://news.google.com/rss/search?q=${encodeURIComponent(query)}` +
+    `&hl=${encodeURIComponent(NEWS_HL)}&gl=${encodeURIComponent(NEWS_GL)}&ceid=${encodeURIComponent(NEWS_CEID)}`;
   try {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 8000);
