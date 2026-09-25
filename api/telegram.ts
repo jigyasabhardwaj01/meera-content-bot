@@ -103,12 +103,14 @@ async function processNote(config: Config, telegram: TelegramClient, message: Te
     noteText = message.text!;
   }
 
-  // 2. Triage: score 0-10, reject low-scoring notes before any drafting happens.
+  // 2. Scoring guardrail (checkpoint B1.1): strict 0-10 score before any drafting
+  // happens. A thrown error here (malformed/out-of-contract Gemini output) must
+  // never fall through to drafting — it fails closed, same as any other error.
   let triage;
   try {
     triage = await gemini.triageNote(noteText);
   } catch (err) {
-    console.error("Triage failed:", err);
+    console.error("Scoring failed:", err);
     await telegram.sendMessage(chatId, "I captured the note, but couldn't analyse it right now.");
     return;
   }
@@ -116,7 +118,7 @@ async function processNote(config: Config, telegram: TelegramClient, message: Te
   if (triage.score < config.triageThreshold) {
     await telegram.sendMessage(
       chatId,
-      `Not quite there yet (${triage.score}/10). ${triage.rationale}`.trim()
+      `I didn't create a draft because this note isn't substantive enough yet: ${triage.reason}`
     );
     return;
   }
